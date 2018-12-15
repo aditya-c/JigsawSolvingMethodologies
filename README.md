@@ -14,6 +14,6 @@ Clone the repo:
 
 Open the jupyter link and run the notebook located at JigsawSolvingMethodologies/project/jigsawvggstl.ipynb
 
-Code for unsupervised learning can be found [here](https://github.com/Jeremalloch/Semisupervised_Image_Classifier)
+Code for unsupervised learning can be found [here](https://github.com/aditya-c/JigsawSolvingMethodologies/tree/master/Semisupervised_Image_Classifier)
 
 This code was used to compare the performance of our model to that of an unsupervised learning model
